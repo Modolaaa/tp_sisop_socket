@@ -54,7 +54,7 @@ dividir 20 5
 ## Para desconectarte, escribe:
 salir
 
-##Configuración
+## Configuración
 Puedes modificar los siguientes parámetros editando los archivos correspondientes:
 
 server.py:
