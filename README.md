@@ -1,6 +1,4 @@
 Sistema Cliente-Servidor para Operaciones Matemáticas
-Python
-License
 
 Descripción
 Este proyecto implementa un sistema cliente-servidor que permite a múltiples clientes conectarse simultáneamente para realizar operaciones matemáticas básicas (suma, resta, multiplicación y división). El servidor procesa las solicitudes y devuelve los resultados a los clientes correspondientes.
